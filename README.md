@@ -52,7 +52,6 @@ Data protection laws in other countries may differ from those in your jurisdicti
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Petal Ads](https://privacy.consumer.huawei.com/legal/ads/privacy-statement.htm?&code=EU&language=en&branchid=0&contenttag=default)
-*   [Unity Ads](https://unity3d.com/legal/privacy-policy)
 *   [Yandex](https://yandex.com/legal/international_ads_privacy_policy/en/)
 *   [InMobi](https://www.inmobi.com/mweb/yes-privacy)
 *   [Godot](https://godotengine.org/privacy-policy)
